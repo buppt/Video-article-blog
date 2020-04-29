@@ -9,14 +9,20 @@
 <a href="https://github.com/buppt/Video-article-blog/issues/2">图文讲解</a> -->
 
 ## 技术学习
+
+秋招面经：<a href='https://github.com/buppt/Video-article-blog/issues/3'>一个普通前端研究僧的 2019 秋招经历（面经）</a>
+
+实习面经：<a href='https://github.com/buppt/Video-article-blog/issues/2'>2019 春季前端暑期实习面经</a>
+
+第二期：《网页布局的发展历程：表格布局、position、float、栅栏布局、flex、grid》
+<a href="https://www.bilibili.com/video/BV1954y1Q7on" target="_blank">B站视频</a> 
+||
+<a href="https://mp.weixin.qq.com/s/EhTxITDVLgtbsTinStOrdw">图文讲解</a>
+
 第一期：《JS模块化的发展历程，CommonJS、AMD、CMD、UMD、ES6模块化》
 <a href="https://www.bilibili.com/video/BV1Ua4y1t7fs" target="_blank">B站视频</a> 
 ||
 <a href="https://github.com/buppt/Video-article-blog/issues/1">图文讲解</a>
-
-实习面经：<a href='https://github.com/buppt/Video-article-blog/issues/2'>2019 春季前端暑期实习面经</a>
-
-秋招面经：<a href='https://github.com/buppt/Video-article-blog/issues/3'>一个普通前端研究僧的 2019 秋招经历（面经）</a>
 
 ## 其他 Web 相关
 第三期：《HTML的发展历程，Flash从兴盛到衰落，HTML5的崛起》
