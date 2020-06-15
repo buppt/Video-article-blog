@@ -3,7 +3,7 @@
 如果你喜欢看视频，欢迎关注B站：<a href='https://space.bilibili.com/85377347'>BUPPT</a>
 
 喜欢看图文，欢迎关注公众号：BUPPT
-<img src='./wx_BUPPT.png' width='300' />
+<img src='https://s1.ax1x.com/2020/06/15/NP8rk9.png' width='300' />
 
 ## Vue 源码学习
 <a href="https://github.com/buppt/Video-article-blog/issues/6">《从零写一个 Vue（一）主流程实现》</a>
