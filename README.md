@@ -3,10 +3,14 @@
 如果你喜欢看视频，欢迎关注B站：<a href='https://space.bilibili.com/85377347'>BUPPT</a>
 
 喜欢看图文，欢迎关注公众号：BUPPT
+<img src='./wx_BUPPT.png' width='300' />
 
-<!-- ## 框架原理学习
-第一期：《框架原理学习，从零实现一个vue框架，保姆级教程（一）》
-<a href="https://github.com/buppt/Video-article-blog/issues/2">图文讲解</a> -->
+## Vue 源码学习
+<a href="https://github.com/buppt/Video-article-blog/issues/6">《从零写一个 Vue（一）主流程实现》</a>
+
+<a href="https://github.com/buppt/Video-article-blog/issues/4">《vue2 中 template 转换成 ast 过程简介》</a>
+
+<a href="https://github.com/buppt/Video-article-blog/issues/5">《vue 3.0 reactivity 源码详解》</a>
 
 ## 技术学习
 
