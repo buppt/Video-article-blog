@@ -6,6 +6,10 @@
 <img src='https://s1.ax1x.com/2020/06/15/NP8rk9.png' width='300' />
 
 ## Vue 源码学习
+<a href="https://github.com/buppt/Video-article-blog/issues/8">《从零写一个 Vue（三）数组监听》</a>
+
+<a href="https://github.com/buppt/Video-article-blog/issues/7">《从零写一个 Vue（二）双向绑定》</a>
+
 <a href="https://github.com/buppt/Video-article-blog/issues/6">《从零写一个 Vue（一）主流程实现》</a>
 
 <a href="https://github.com/buppt/Video-article-blog/issues/4">《vue2 中 template 转换成 ast 过程简介》</a>
