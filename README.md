@@ -6,6 +6,12 @@
 <img src='https://s1.ax1x.com/2020/06/15/NP8rk9.png' width='300' />
 
 ## Vue 源码学习
+<a href="https://github.com/buppt/Video-article-blog/issues/11">《从零写一个 Vue（六）组件化》</a>
+
+<a href="https://mp.weixin.qq.com/s/GhfGgAyvW1fX_s2r8bygpQ">《从零写一个 Vue（五）DOM 生成与更新》</a>
+
+<a href="https://github.com/buppt/Video-article-blog/issues/9">《从零写一个 Vue（四）虚拟 DOM》</a>
+
 <a href="https://github.com/buppt/Video-article-blog/issues/8">《从零写一个 Vue（三）数组监听》</a>
 
 <a href="https://github.com/buppt/Video-article-blog/issues/7">《从零写一个 Vue（二）双向绑定》</a>
