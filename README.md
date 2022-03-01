@@ -5,7 +5,22 @@
 喜欢看图文，欢迎关注公众号：BUPPT
 <img src='https://s1.ax1x.com/2020/06/15/NP8rk9.png' width='300' />
 
-## Vue 源码学习
+## kubernetes
+
+<a href="https://mp.weixin.qq.com/s/pFymKi3HdNAcsJp_kwiigA">《Kubernetes网络插件flannel原理简介》</a>
+
+<a href="https://mp.weixin.qq.com/s/GIS59HaC3xPug3kR4YS_pw">《kubernetes service 从简介到原理一篇全搞定》</a>
+
+<a href="https://mp.weixin.qq.com/s/zFw0HTlmSE-gSuoo1OQcKg">《使用kubeadm快速部署K8S集群》</a>
+
+## Linux 学习
+<a href="https://mp.weixin.qq.com/s/LtzAJ0qfxo8OPXZ2Wq1njA">《什么是文件系统？》</a>
+
+<a href="https://mp.weixin.qq.com/s/xehfRNEiJL_Xz5pHblDEow">《零基础入门 iptables》</a>
+
+<a href="https://mp.weixin.qq.com/s/1aBznblMzhZ0-WvpRjh41A">《mac安装CentOS虚拟机》</a>
+
+## Vue 源码
 <a href="https://github.com/buppt/Video-article-blog/issues/11">《从零写一个 Vue（六）组件化》</a>
 
 <a href="https://mp.weixin.qq.com/s/GhfGgAyvW1fX_s2r8bygpQ">《从零写一个 Vue（五）DOM 生成与更新》</a>
